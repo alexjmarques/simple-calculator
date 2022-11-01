@@ -15,8 +15,6 @@ Calculado simples, com funções básicas mais com uma abordade bem didática.
 - React Native
 - Typescript
 
-... Entre outros
-
 ## Instalação e execução ​ℹ️ ​<a name="run" />
 
 1. Faça um clone desse repositório rodando um `git clone git@github.com:alexjmarques/simple-calculator.git`;
